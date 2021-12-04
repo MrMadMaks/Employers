@@ -1,6 +1,6 @@
 import './app-info.css'
 
-const AppInfo = ()=> {
+const AppInfo = () => {
     return (
         <div className="app-info">
             <h1>Учёт сотрудников в компании Газпром</h1>
